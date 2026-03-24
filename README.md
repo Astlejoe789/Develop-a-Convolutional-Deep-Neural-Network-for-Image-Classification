@@ -4,7 +4,14 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+The task is to build a Convolutional Neural Network (CNN) model that can automatically classify images into different categories. Instead of manually identifying images, the model should learn patterns from the data and predict the correct class.
+
+### Fashion-MNIST dataset:
+
+60,000 training images
+10,000 testing images
+10 categories of clothes
+Image size: 28 × 28 (grayscale)
 
 ## Neural Network Model
 
