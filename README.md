@@ -15,7 +15,8 @@ Image size: 28 × 28 (grayscale)
 
 ## Neural Network Model
 
-<img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/d6894428-c136-4bf9-b545-2bbf8cd2dd4d" />
+![DLExp3](https://github.com/user-attachments/assets/a213c96b-9ea3-4477-954b-e07376ee8ec5)
+
 
 
 ## DESIGN STEPS
